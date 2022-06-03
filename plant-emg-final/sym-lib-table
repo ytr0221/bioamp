@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "LT1167CN8")(type "Legacy")(uri "/Users/yu20/Downloads/LT1167CN8/LT1167CN8.lib")(options "")(descr ""))
+  (lib (name "LT1112CN8")(type "KiCad")(uri "/Users/yu20/Downloads/LT1112CN8/LT1112CN8.kicad_sym")(options "")(descr ""))
+  (lib (name "2022-05-08_21-14-39")(type "Legacy")(uri "/Users/yu20/Downloads/ul_TLC2272-Q1-D-8/KiCAD/2022-05-08_21-14-39/2022-05-08_21-14-39.lib")(options "")(descr ""))
+)
